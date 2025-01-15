@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeMark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab3c7e42c96723d060aa22a4dacbe688ae304de7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79bf5ab683bcedafd76f8482ed0b0d1593f2a177")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeMark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeMark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
